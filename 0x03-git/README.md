@@ -1,1 +1,1 @@
-My first directory in repo
+My first directory in repository
